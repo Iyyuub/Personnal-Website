@@ -1,8 +1,0 @@
-
-RewriteOptions inherit
-
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^.*$
-RewriteRule ^/?$ "https\:\/\/cheqri\.com\/" [R=301,L]
-RewriteCond %{HTTP_HOST} ^.*$
-RewriteRule ^dns$ "https\:\/\/cheqri\.com\/cpanelwebcall\/otwrvhnucterepgbhcrcjqkjmecmbtmn" [R=301,L]
