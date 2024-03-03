@@ -1,6 +1,13 @@
-# Source code for my personnal website
----
+### Code for my personnal website
 
-### [https://cheqri.com](https://www.cheqri.com)
+[cheqri.com](https://www.cheqri.com)
+
 *Currently under development* 
+
+### Table of updates
+
+| Date | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
