@@ -1,6 +1,7 @@
 > ## Code for my personnal website:
 
 - [cheqri.com](https://www.cheqri.com)
+
 *Currently under development* 
 
 > ## History of updates:
