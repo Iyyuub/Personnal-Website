@@ -1,13 +1,13 @@
-### Code for my personnal website
+### Code for my personnal website:
 
 [cheqri.com](https://www.cheqri.com)
 
 *Currently under development* 
 
-### Table of updates
+### History of updates:
 
 | Date | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 03/02/2024 | Added content list, updated resume, updated readme |
+
 
