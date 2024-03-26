@@ -1,0 +1,3 @@
+
+User-agent: *
+Disallow: /Ayoub_Cheqri_E_Res.pdf/
